@@ -1,2 +1,5 @@
-# Hands-On-Machine-Learning
-A collection of Machine Learning concepts, algorithm implementations, experiments, and projects built while learning ML from fundamentals to advanced topics.
+| Project | Problem Type | Algorithm |
+|----------|-------------|-----------|
+| Insurance Cost Prediction | Regression | Linear Regression |
+| Heart Disease Prediction | Classification | Logistic Regression |
+| Ford Car Price Prediction | Regression | Linear Regression |
